@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>641566010967-u1kj988m0bt31njfe6m1appoekat8kkj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.641566010967-u1kj988m0bt31njfe6m1appoekat8kkj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDsfFIo3ewSjyn0u4WaxfQQr7bDWLFC6lg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>641566010967</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.goMongo</string>
+	<key>PROJECT_ID</key>
+	<string>flutterauth-651e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterauth-651e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:641566010967:ios:de7fdfcfbab388e45dbd12</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutterauth-651e9-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
